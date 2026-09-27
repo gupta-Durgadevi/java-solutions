@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/gupta-Durgadevi/java-solutions/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/gupta-Durgadevi/java-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0136-single-number](https://github.com/gupta-Durgadevi/java-solutions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/gupta-Durgadevi/java-solutions/tree/master/0137-single-number-ii) |
 ## Bit Manipulation
@@ -28,4 +29,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/gupta-Durgadevi/java-solutions/tree/master/0002-add-two-numbers) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/gupta-Durgadevi/java-solutions/tree/master/0004-median-of-two-sorted-arrays) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/gupta-Durgadevi/java-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
